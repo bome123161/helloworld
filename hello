@@ -1,0 +1,6 @@
+public hello{
+public class main(strings[]args){
+system.out.println("hello world");
+return 1;
+}
+}
